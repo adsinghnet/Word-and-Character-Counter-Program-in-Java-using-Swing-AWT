@@ -6,7 +6,7 @@ I have used <b>JDK1.8</b> to compile the source code
 <br>
 <p>Thanx for using <u>Word and Character Counter Program</u></p>
 
-<div align="center"><img src="1.png" width="350px" ></div>
+<div align="center"><img src="1.jpg" width="350px" ></div>
 
 
 For more visit <a href="http://projects.adsingh.net/">projects.adsingh.net !</a>
